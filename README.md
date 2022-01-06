@@ -1,1 +1,1 @@
-# FormSalesBitrix24
+# Form for client of Bitrix24
