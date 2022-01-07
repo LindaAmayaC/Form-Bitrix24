@@ -1,0 +1,96 @@
+/* container style start */
+.container-form{
+    padding:30px;
+    position: relative;
+    text-align: center;
+    
+}
+.container-fluid{
+    width: 80%;
+    margin-top: 10px;
+}
+.containerAllForm{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    height:auto;
+    text-align: center; 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+}
+.container-generalForm{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+/* container style end */
+/* Principal title style start */
+.title{
+    margin-top: 20px;
+    font-size: 20px;
+    color:#00b6f9;
+}
+/* Principal title style end */
+/* button style */
+#num_solicitud{
+    margin-left: 20px;
+}
+
+#nombre_proveedor{
+    margin-left: 10px;
+    margin-top: 20px;
+}    
+/* List product style start */
+.product{
+    margin-top: 20px;
+}
+input  .inputbtn{
+    border:1px solid #00b6f9;
+    border-radius: 5px;
+}
+.inputList{
+    border:0.2px solid #e9ecef;
+    font-weight: lighter;
+}
+.col-sm-4{
+    font-weight: bold;
+    order:0.2px solid #e9ecef
+}
+.condPago{
+    margin-top: 25px;
+}
+#cond_Pago{
+    margin-left: 10px;
+    
+}
+#btn-Enviar{
+    margin-top: 30px;
+    width: 140px;
+    height: 30px;
+    background-color: #00b6f9;
+    color: #FFF;
+    border-color: #fff;
+    border-radius: 5px;
+    font-size: 19px;
+    padding-bottom: 20px;
+    margin-bottom: 5px;
+}
+#btn-AggProducto{
+    margin-top: 10px;
+    color: #00b6f9;
+    border-radius: 5px;
+    border-color:#00b6f9;
+    background-color: #fff;
+}
+#btnDeleteProducto {
+    border-radius: 5px;
+    margin-top: 10px;
+    color: #dc3545;
+    border-radius: 5px;
+    border-color:#dc3545;
+    background-color: #fff;
+    text-decoration: none;
+}
+    
