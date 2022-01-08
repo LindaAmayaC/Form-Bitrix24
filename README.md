@@ -1,6 +1,6 @@
 # Form for client of Bitrix24
 
-#Descripción:
+# Descripción:
 Se crea formulario que con el uso del API de Bitrix24 se envia la información capturada al modulo de CRM donde se almacena la información.
 
 
